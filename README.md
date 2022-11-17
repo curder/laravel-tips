@@ -47,3 +47,6 @@ php artisan db:seed --class=PostSeeder
 ```
 
 Open the [ray](https://spatie.be/docs/ray/introduction) software to view the output of the two code time-consuming.
+
+
+More information please [check here](https://curder.github.io/laravel-study/tips/optimize-factory-database-batch-insert.html)
